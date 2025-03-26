@@ -20,7 +20,9 @@ You need Python 3 installed, and the dependencies: **MatplotLib**, **Numpy**
 ### Usage
 Simply run the script using :
 
-````python3 AnimPlot.py````
+```
+python3 AnimPlot.py
+```
 
 Or use the pre-compiled version for your system, then follow the instructions.
 
