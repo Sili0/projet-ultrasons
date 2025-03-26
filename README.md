@@ -27,7 +27,7 @@ python3 AnimPlot.py
 Or use the pre-compiled version for your system, then follow the instructions.
 
 ## Data
-Each acquisition is named by the experimental parameters used, and contains the list of the .CSV containing the raw data acquired 
+Each acquisition is named by the experimental parameters used, and contains the list of the .CSV containing the raw data acquired by [OpenWave-1KB](https://github.com/other-username/https://github.com/OpenWave-GW/OpenWave-1KB)
 
 ## Resources
 Youtube channel with the video used to identify bubble sizes and their time-code in the acquisition:
