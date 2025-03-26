@@ -7,8 +7,7 @@ _Repository containing the data and code (**AnimPlot**) regarding the Projet Tut
 This repository includes:  
 - **Python source code** of AnimPlot
 - **Compiled versions** of AnimPlot for macOS and Windows  
-- **Folders with .csv files** to be opened with AnimPlot  
-- **Raw and processed data** 
+- **Folders with .csv raw data files** to be opened with AnimPlot  
 - A **link to the YouTube channel** with the videos of the acquisitions
 
 
