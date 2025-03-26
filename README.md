@@ -1,5 +1,5 @@
 # projet-ultrasons
-
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Sili0)  [![License](https://img.shields.io/badge/License-MIT-green)](https://mit-license.org/) 
 ## Description
 _Repository containing the data and code (**AnimPlot**) regarding the Projet Tuteuré about ultrasound propagation._
 
@@ -32,14 +32,3 @@ Each acquisition is named by the experimental parameters used, and contains the 
 Youtube channel with the video used to identify bubble sizes and their time-code in the acquisition:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Projet_tut)  
-
-
-## Technologies Used
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  
-
-
-## Author
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Sili0)  
-
-## License
-[![License](https://img.shields.io/badge/License-MIT-green)](https://mit-license.org/) 
