@@ -31,4 +31,4 @@ Each acquisition is named by the experimental parameters used, and contains the 
 ## Videos
 Youtube channel with the video used to identify bubble sizes and their time-code in the acquisition:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Chaine-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Projet_tut)  
+[![YouTube](https://img.shields.io/badge/YouTube-Chaine-red?logo=youtube&logoColor=white)](https://www.youtube.com/@projet-ultrasons)  
