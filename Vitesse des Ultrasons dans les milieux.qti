@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.2.5" dpi="120" arch="Win64" buildCpuArch="x86_64" muParserCLocale="1" script="muParser" windows="12" expand="1" log="[2025-03-26 18:04:42] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_hauteur'&#10;De x  = 0 à x  = 1,57e-06&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur            Erreur            &#10;--------------------------------------&#10;B (y-intercept)   0,00212214   0,00374829   &#10;A (slope)            953 622         3 828,23        &#10;--------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00448818&#10;&#10;Statistiques                                                                          100glycérol_hauteur   &#10;-----------------------------------------------------------------------&#10;N (Données)                                                                         4                                  &#10;Degrés de liberté (doF)                                                       2                                  &#10;Chi^2/doF                                                                           2,01437e-05               &#10;RSS (Restes de la somme des carrés)                                  4,02875e-05               &#10;R                                                                                          0,999984                     &#10;R^2                                                                                      0,999968                     &#10;Coefficient R^2 ajusté                                                         0,999952                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00448818                 &#10;-----------------------------------------------------------------------&#10;&#10;[2025-03-26 18:09:33] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_hauteur'&#10;De x  = 0 à x  = 1,57e-06&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur        Erreur      &#10;--------------------------------&#10;B (y-intercept)   0,203365   0,25013   &#10;A (slope)            856 404     255 464   &#10;--------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,299504&#10;&#10;Statistiques                                                                          100glycérol_hauteur   &#10;-----------------------------------------------------------------------&#10;N (Données)                                                                         4                                  &#10;Degrés de liberté (doF)                                                       2                                  &#10;Chi^2/doF                                                                           0,0897025                   &#10;RSS (Restes de la somme des carrés)                                  0,179405                     &#10;R                                                                                          0,92137                       &#10;R^2                                                                                      0,848922                     &#10;Coefficient R^2 ajusté                                                         0,773383                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,299504                     &#10;-----------------------------------------------------------------------&#10;&#10;[2025-03-26 18:09:35] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_hauteur'&#10;De x  = 0 à x  = 1,57e-06&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur               Erreur        &#10;-------------------------------------&#10;B (y-intercept)   0,301735          0,484402   &#10;A (slope)            1,04975e+06   494 733     &#10;-------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,580019&#10;&#10;Statistiques                                                                          100glycérol_hauteur   &#10;-----------------------------------------------------------------------&#10;N (Données)                                                                         4                                  &#10;Degrés de liberté (doF)                                                       2                                  &#10;Chi^2/doF                                                                           0,336423                     &#10;RSS (Restes de la somme des carrés)                                  0,672845                     &#10;R                                                                                          0,832114                     &#10;R^2                                                                                      0,692414                     &#10;Coefficient R^2 ajusté                                                         0,538621                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,580019                     &#10;-----------------------------------------------------------------------&#10;&#10;[2025-03-26 18:09:36] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_hauteur'&#10;De x  = 0 à x  = 1,57e-06&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur               Erreur            &#10;---------------------------------------&#10;B (y-intercept)   0,00424428      0,00749658   &#10;A (slope)            1,90724e+06   7 656,46        &#10;---------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00897635&#10;&#10;Statistiques                                                                          100glycérol_hauteur   &#10;-----------------------------------------------------------------------&#10;N (Données)                                                                         4                                  &#10;Degrés de liberté (doF)                                                       2                                  &#10;Chi^2/doF                                                                           8,05749e-05               &#10;RSS (Restes de la somme des carrés)                                  0,00016115                 &#10;R                                                                                          0,999984                     &#10;R^2                                                                                      0,999968                     &#10;Coefficient R^2 ajusté                                                         0,999952                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00897635                 &#10;-----------------------------------------------------------------------&#10;&#10;[2025-03-26 18:24:11] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 1,57&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur            Erreur            &#10;--------------------------------------&#10;B (y-intercept)   0,00424428   0,00749658   &#10;A (slope)            1,90724         0,00765646   &#10;--------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00897635&#10;&#10;Statistiques                                                                          100glycérol_Déphasage Spatial   &#10;--------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                                  &#10;Degrés de liberté (doF)                                                       2                                                  &#10;Chi^2/doF                                                                           8,05749e-05                               &#10;RSS (Restes de la somme des carrés)                                  0,00016115                                 &#10;R                                                                                          0,999984                                     &#10;R^2                                                                                      0,999968                                     &#10;Coefficient R^2 ajusté                                                         0,999952                                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00897635                                 &#10;--------------------------------------------------------------------------------&#10;&#10;[2025-03-26 18:29:16] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 1,57&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur            Erreur            &#10;--------------------------------------&#10;B (y-intercept)   0,00424428   0,00749658   &#10;A (slope)            1,90724         0,00765646   &#10;--------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00897635&#10;&#10;Statistiques                                                                          100glycérol_Déphasage Spatial   &#10;--------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                                  &#10;Degrés de liberté (doF)                                                       2                                                  &#10;Chi^2/doF                                                                           8,05749e-05                               &#10;RSS (Restes de la somme des carrés)                                  0,00016115                                 &#10;R                                                                                          0,999984                                     &#10;R^2                                                                                      0,999968                                     &#10;Coefficient R^2 ajusté                                                         0,999952                                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00897635                                 &#10;--------------------------------------------------------------------------------&#10;&#10;[2025-03-26 18:29:22] Graphe: 'Graphe1'&#10;Regression linéaire de données: '100glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 1,57&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur            Erreur            &#10;--------------------------------------&#10;B (y-intercept)   0,00424428   0,00749658   &#10;A (slope)            1,90724         0,00765646   &#10;--------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00897635&#10;&#10;Statistiques                                                                          100glycérol_Déphasage Spatial   &#10;--------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                                  &#10;Degrés de liberté (doF)                                                       2                                                  &#10;Chi^2/doF                                                                           8,05749e-05                               &#10;RSS (Restes de la somme des carrés)                                  0,00016115                                 &#10;R                                                                                          0,999984                                     &#10;R^2                                                                                      0,999968                                     &#10;Coefficient R^2 ajusté                                                         0,999952                                     &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00897635                                 &#10;--------------------------------------------------------------------------------&#10;&#10;[2025-03-26 18:36:50] Graphe: 'Graphe2'&#10;Regression linéaire de données: '75glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 1,62&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur          Erreur            &#10;-------------------------------------&#10;B (y-intercept)   0,0041455   0,00878079   &#10;A (slope)            1,85417       0,00871817   &#10;-------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,0105136&#10;&#10;Statistiques                                                                          75glycérol_Déphasage Spatial   &#10;-------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                                &#10;Degrés de liberté (doF)                                                       2                                                &#10;Chi^2/doF                                                                           0,000110535                             &#10;RSS (Restes de la somme des carrés)                                  0,000221071                             &#10;R                                                                                          0,999978                                   &#10;R^2                                                                                      0,999956                                   &#10;Coefficient R^2 ajusté                                                         0,999934                                   &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,0105136                                 &#10;-------------------------------------------------------------------------------&#10;&#10;[2025-03-26 18:39:29] Graphe: 'Graphe3'&#10;Regression linéaire de données: '50glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 0,557&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur          Erreur            &#10;-------------------------------------&#10;B (y-intercept)   0,0015095   0,00333933   &#10;A (slope)            1,79528       0,00930438   &#10;-------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00366466&#10;&#10;Statistiques                                                                          50glycérol_Déphasage Spatial   &#10;-------------------------------------------------------------------------------&#10;N (Données)                                                                         3                                                &#10;Degrés de liberté (doF)                                                       1                                                &#10;Chi^2/doF                                                                           1,34297e-05                             &#10;RSS (Restes de la somme des carrés)                                  1,34297e-05                             &#10;R                                                                                          0,999987                                   &#10;R^2                                                                                      0,999973                                   &#10;Coefficient R^2 ajusté                                                         0,999946                                   &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00366466                               &#10;-------------------------------------------------------------------------------&#10;&#10;[2025-03-26 18:40:13] Graphe: 'Graphe4'&#10;Regression linéaire de données: '25glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 0,89&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur            Erreur          &#10;-------------------------------------&#10;B (y-intercept)   -0,0037653   0,007751     &#10;A (slope)            1,68157         0,0138893   &#10;-------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00923398&#10;&#10;Statistiques                                                                          25glycérol_Déphasage Spatial   &#10;-------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                                &#10;Degrés de liberté (doF)                                                       2                                                &#10;Chi^2/doF                                                                           8,52665e-05                             &#10;RSS (Restes de la somme des carrés)                                  0,000170533                             &#10;R                                                                                          0,999932                                   &#10;R^2                                                                                      0,999864                                   &#10;Coefficient R^2 ajusté                                                         0,999795                                   &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00923398                               &#10;-------------------------------------------------------------------------------&#10;&#10;[2025-03-26 18:53:05] Graphe: '0glycérolgraphique'&#10;Regression linéaire de données: '0glycérol_Déphasage Spatial'&#10;De x  = 0,6 à x  = 2,62&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur        Erreur            &#10;------------------------------------&#10;B (y-intercept)   -0,88512   0,00724664   &#10;A (slope)            1,48407     0,0045415     &#10;------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00686998&#10;&#10;Statistiques                                                                          0glycérol_Déphasage Spatial   &#10;------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                              &#10;Degrés de liberté (doF)                                                       2                                              &#10;Chi^2/doF                                                                           4,71966e-05                           &#10;RSS (Restes de la somme des carrés)                                  9,43932e-05                           &#10;R                                                                                          0,999991                                 &#10;R^2                                                                                      0,999981                                 &#10;Coefficient R^2 ajusté                                                         0,999972                                 &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00686998                             &#10;------------------------------------------------------------------------------&#10;&#10;[2025-03-26 19:13:57] Graphe: '0glycérolgraphique'&#10;Regression linéaire de données: '0glycérol_Déphasage Spatial'&#10;De x  = 0 à x  = 2,02&#10;Équation: A*x+B&#10;Trier: Non&#10;Méthode de pondération: Aucun poids&#10;Algorithme: Levenberg-Marquardt&#10;Tolérance: 1e-09&#10;Nombre d'itérations: 2&#10;État: Convergence en orthogonalité.&#10;&#10;Paramètre          Valeur            Erreur            &#10;--------------------------------------&#10;B (y-intercept)   0,00532273   0,00501645   &#10;A (slope)            1,48407         0,0045415     &#10;--------------------------------------&#10;Les erreurs ont été multipliées par le facteur sqrt(Chi^2/doF) = 0,00686998&#10;&#10;Statistiques                                                                          0glycérol_Déphasage Spatial   &#10;------------------------------------------------------------------------------&#10;N (Données)                                                                         4                                              &#10;Degrés de liberté (doF)                                                       2                                              &#10;Chi^2/doF                                                                           4,71966e-05                           &#10;RSS (Restes de la somme des carrés)                                  9,43932e-05                           &#10;R                                                                                          0,999991                                 &#10;R^2                                                                                      0,999981                                 &#10;Coefficient R^2 ajusté                                                         0,999972                                 &#10;RMSE (La racine carrée moyenne des carrés des erreurs)   0,00686998                             &#10;------------------------------------------------------------------------------&#10;&#10;">
+	<window type="1" name="100glycérol" date="2460760.7362268" x="-2151" y="4" w="712" h="248">
+		<tab rows="29" cols="6" labels="2">
+			<col name="Déphasage Spatial" type="6" num="0" prec="13" plot="1" width="181" stat="0" unit="mm" data="0;1;2;3;"/>
+			<col name="1" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="0.0002;0.0002;0.0002;0.0002;"/>
+			<col name="Position Temporelle" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="us" data="0;0.517;1.05;1.57;"/>
+			<col name="2" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="2.37e-14;2.37e-14;2.37e-14;2.37e-14;"/>
+			<col name="vitesse" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="m/s" data="0;1934.235976789;1902.949571836;1908.396946565;"/>
+			<col name="3" type="6" num="0" prec="13" plot="2" width="100" stat="0"/>
+		</tab>
+	</window>
+	<window type="1" name="75glycérol" date="2460760.7441703" x="-1667" y="2" w="500" h="243">
+		<tab rows="29" cols="3" labels="2">
+			<col name="Déphasage Spatial" type="6" num="0" prec="13" plot="2" width="177" stat="0" unit="mm" data="0;1;2;3;"/>
+			<col name="delta temps" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="us" data="0;0.537;1.07;1.62;"/>
+			<col name="vitesse" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="m/s" data="0;1862.19739292365;1874.41424554827;1856.43564356436;"/>
+		</tab>
+	</window>
+	<window type="1" name="50glycérol" date="2460760.7472292" x="-1170" y="4" w="502" h="245">
+		<tab rows="29" cols="3" labels="2">
+			<col name="Déphasage Spatial" type="6" num="0" prec="13" plot="1" width="180" stat="0" unit="mm" data="0;0.5;1;"/>
+			<col name="delta temps" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="us" data="0;0.276;0.557;"/>
+			<col name="vitesse" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="m/s" data="0;1811.59420289855;1795.33213644524;"/>
+		</tab>
+	</window>
+	<window type="1" name="25glycérol" date="2460760.7484816" x="-669" y="3" w="478" h="259">
+		<tab rows="29" cols="3" labels="2">
+			<col name="Déphasage Spatial" type="6" num="0" prec="13" plot="1" width="182" stat="0" unit="mm" data="0;0.5;1;1.5;"/>
+			<col name="delta temps" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="us" data="0;0.3;0.603;0.89;"/>
+			<col name="vitesse" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="m/s" data="0;1666.66666666667;1658.37479270315;1685.39325842697;"/>
+		</tab>
+	</window>
+	<window type="1" name="Table2" date="2460760.7493023" x="-1830" y="926" w="809" h="487">
+		<tab rows="29" cols="4" labels="2">
+			<col name="pourcentage glycérol" type="6" num="0" prec="13" plot="1" width="204" stat="0" data=";;;;;;100;75;50;25;0;"/>
+			<col name="vitesse mesurée" type="6" num="0" prec="13" plot="2" width="171" stat="0" unit="m/s" data=";;;;;;1907.24;1854.17;1795.28;1681.57;1484.07;"/>
+			<col name="Incertitude vitesse" type="6" num="0" prec="13" plot="5" width="168" stat="0" unit="m/s" data=";;;;;;7.65646;8.71817;9.30438;13.8893;4.5415;"/>
+			<col name="vitesse théorique" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="m/s" data=";;;;;;1920;1811;1702;1593;1484;"/>
+		</tab>
+	</window>
+	<window type="1" name="0glycérol" date="2460760.7806984" x="-192" y="0" w="551" h="264">
+		<tab rows="30" cols="3" labels="2">
+			<col name="Déphasage Spatial" type="6" num="0" prec="13" plot="1" width="100" stat="0" unit="mm" data="0;0.6;1.2;3;"/>
+			<col name="delta temps" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="us" data="0;0.4;0.8;2.02;"/>
+			<col name="vitesse" type="6" num="0" prec="13" plot="2" width="100" stat="0" unit="m/s" data="0;1500;1500;1485.148515;"/>
+		</tab>
+	</window>
+	<window type="3" name="100glycérolgraphique" date="2460760.7525379" x="-2148" y="251" w="792" h="666" dpi="120">
+		<layout cw="776" ch="600" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="766" h="562" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.0064433" y="0.055" w="0.987113" h="0.936667"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="84" y="42" w="682" h="473" fixRatio="0" lw="1" lc="#000000" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0"/>
+			<curve type="2" z="21" table="100glycérol" x="Position Temporelle" y="Déphasage Spatial" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="0" to="1.57" points="2" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="1.90724350566853"/>
+				<param name="B" val="0.0042442806794557"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="3.5" step="0" maj="9" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage Spatial 2dx (mm)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="266"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1.6" step="0" maj="10" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="2" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage temporel dt (us)&#10;" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="257"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-5e-07" to="2e-06" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-0.466863033873343" y="3.42668024439919" r="0.383652430044183" b="2.9949083503055" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)"/>
+			<filter type="0" inCrv="0" from="0" to="1.57" resCrv="1" points="2" recalc="1" sort="0" fmt="g" prec="6" iter="1000" modifiedData="0" sclErr="1" chi2="0.000161149889950628" func="1" eps="1e-09" pasteResults="0">
+				<parameter name="B" val="0.0042442806794557" explain="y-intercept" err="0.697471456371214" const="0"/>
+				<parameter name="A" val="1.90724350566853" explain="slope" err="0.727539006549124" const="0"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="3" name="75glycérolgraphique" date="2460760.767731" x="-1352" y="254" w="792" h="666" dpi="120">
+		<layout cw="776" ch="600" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="766" h="562" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.0064433" y="0.055" w="0.987113" h="0.936667"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="84" y="42" w="682" h="473" fixRatio="0" lw="1" lc="#000000" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0"/>
+			<curve type="2" z="21" table="75glycérol" x="delta temps" y="Déphasage Spatial" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="0" to="1.62" points="2" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="1.85417353214557"/>
+				<param name="B" val="0.00414550294156224"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="3.5" step="0" maj="9" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage Spatial 2dx (mm)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="266"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1.6" step="0" maj="10" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="2" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage temporel dt (us)&#10;" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="257"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-5e-07" to="2e-06" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-0.470544918998527" y="3.42668024439919" r="0.379970544918999" b="2.9949083503055" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)"/>
+			<filter type="0" inCrv="0" from="0" to="1.62" resCrv="1" points="2" recalc="1" sort="0" fmt="g" prec="6" iter="1000" modifiedData="0" sclErr="1" chi2="0.000221070569473323" func="1" eps="1e-09" pasteResults="0">
+				<parameter name="B" val="0.00414550294156224" explain="y-intercept" err="0.697535922678247" const="0"/>
+				<parameter name="A" val="1.85417353214557" explain="slope" err="0.687622300072527" const="0"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="3" name="50glycérolgraphique" date="2460760.7763471" x="-560" y="262" w="777" h="666" dpi="120">
+		<layout cw="761" ch="600" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="751" h="562" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.0065703" y="0.055" w="0.986859" h="0.936667"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="84" y="42" w="659" h="473" fixRatio="0" lw="1" lc="#000000" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0"/>
+			<curve type="2" z="21" table="50glycérol" x="delta temps" y="Déphasage Spatial" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="0" to="0.557" points="2" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="1.79528391485777"/>
+				<param name="B" val="0.00150949964115799"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1.2" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage Spatial 2dx (mm)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="266"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1.2" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.1" to="0.6" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage temporel dt (us)&#10;" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="257"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.1" to="0.6" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-0.0914634146341464" y="1.17433808553971" r="0.155030487804878" b="1.02321792260692" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)"/>
+			<filter type="0" inCrv="0" from="0" to="0.557" resCrv="1" points="2" recalc="1" sort="0" fmt="g" prec="6" iter="1000" modifiedData="0" sclErr="1" chi2="1.34297121099474e-05" func="1" eps="1e-09" pasteResults="0">
+				<parameter name="B" val="0.00150949964115799" explain="y-intercept" err="0.830332240333831" const="0"/>
+				<parameter name="A" val="1.79528391485777" explain="slope" err="6.44626181277477" const="0"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="3" name="25glycérolgraphique" date="2460760.7767827" x="219" y="263" w="769" h="666" dpi="120">
+		<layout cw="753" ch="600" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="743" h="552" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.00664011" y="0.055" w="0.98672" h="0.92"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="84" y="42" w="659" h="463" fixRatio="0" lw="1" lc="#000000" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0"/>
+			<curve type="2" z="21" table="25glycérol" x="delta temps" y="Déphasage Spatial" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="0" to="0.89" points="2" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="1.68157345048352"/>
+				<param name="B" val="-0.00376529917923563"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1.6" step="0" maj="10" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage Spatial 2dx (mm)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="266"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1.6" step="0" maj="10" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage temporel dt (us)&#10;" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="257"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.2" to="1" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-0.185365853658537" y="1.56700610997963" r="0.200609756097561" b="1.44969450101833" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)"/>
+			<filter type="0" inCrv="0" from="0" to="0.89" resCrv="1" points="2" recalc="1" sort="0" fmt="g" prec="6" iter="1000" modifiedData="0" sclErr="1" chi2="0.000170532928126734" func="1" eps="1e-09" pasteResults="0">
+				<parameter name="B" val="-0.00376529917923563" explain="y-intercept" err="0.704591719283004" const="0"/>
+				<parameter name="A" val="1.68157345048352" explain="slope" err="2.26246007464987" const="0"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="3" name="0glycérolgraphique" date="2460760.7847888" x="1088" y="254" w="769" h="732" dpi="120">
+		<layout cw="753" ch="666" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="743" h="562" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.00664011" y="0.0495495" w="0.98672" h="0.843844"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="84" y="42" w="651" h="473" fixRatio="0" lw="1" lc="#000000" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0"/>
+			<curve type="2" z="21" table="0glycérol" x="delta temps" y="Déphasage Spatial" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="19" z="22" name="LinéaireAjustement1" f="0" y="A*x+B" from="0" to="2.02" points="2" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<param name="A" val="1.48407114451776"/>
+				<param name="B" val="0.00532272866319949"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="3.5" step="0" maj="9" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage Spatial 2dx (mm)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="266"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="3.5" step="0" maj="9" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-0.5" to="2.5" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="Déphasage temporel dt (us)&#10;" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="257"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="0.5" to="3" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-0.462962962962963" y="3.42668024439919" r="0.606481481481481" b="2.9949083503055" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)&#10;&#10;"/>
+			<filter type="0" inCrv="0" from="0" to="2.02" resCrv="1" points="2" recalc="1" sort="0" fmt="g" prec="6" iter="1000" modifiedData="0" sclErr="1" chi2="9.43932176725093e-05" func="1" eps="1e-09" pasteResults="0">
+				<parameter name="B" val="0.00532272866319949" explain="y-intercept" err="0.533190578158458" const="0"/>
+				<parameter name="A" val="1.48407114451776" explain="slope" err="0.437005637372722" const="0"/>
+			</filter>
+		</tab>
+	</window>
+	<window type="3" name="Graphe1" date="2460761.802963" x="-989" y="925" w="786" h="666" active="1" dpi="120">
+		<layout cw="770" ch="600" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="760" h="562" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.00649351" y="0.055" w="0.987013" h="0.936667"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="90" y="42" w="659" h="494" fixRatio="0" lw="1" lc="#000000" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0"/>
+			<curve type="2" z="21" table="Table2" x="pourcentage glycérol" y="vitesse théorique" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+			</curve>
+			<curve type="2" z="22" table="Table2" x="pourcentage glycérol" y="vitesse mesurée" from="0" to="-1" line="0" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="2" size="7" lc="#ff0000" lw="1" ls="0" brc="#ff0000"/>
+				<errors type="1" z="23" table="Table2" col="Incertitude vitesse" from="0" to="-1" line="0" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="1400" to="2000" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="1400" to="2000" step="0" maj="7" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-20" to="120" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-20" to="120" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-18.0792682926829" y="1989.00203665988" r="25.2439024390244" b="1924.23625254582" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+		</tab>
+	</window>
+</qti>

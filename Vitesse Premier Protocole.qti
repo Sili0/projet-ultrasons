@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE qti>
+<qti app="QtiPlot" version="1.2.5" dpi="120" arch="Win64" buildCpuArch="x86_64" muParserCLocale="1" script="muParser" windows="2" expand="1">
+	<window type="1" name="Table1" date="2460761.7800453" x="-251" y="56" w="1585" h="806" active="1">
+		<tab rows="30" cols="8" labels="0">
+			<col name="pos temp eau" type="6" num="0" prec="13" plot="1" width="174" stat="0" data="0;9.3;18.8;"/>
+			<col name="in temp eau" type="6" num="0" prec="13" plot="2" width="203" stat="0" data="0;0.22;0.23;"/>
+			<col name="vitesse eau" type="6" num="0" prec="13" plot="2" width="173" stat="0" data="0;21.9;29.3;;26;"/>
+			<col name="incertitude v eau" type="6" num="0" prec="13" plot="2" width="190" stat="0" data="0;0.9;0.5;;4;"/>
+			<col name="pos temp 25gly" type="6" num="0" prec="13" plot="2" width="187" stat="0" data="0;9.61;18.9;"/>
+			<col name="in pos temp gly" type="6" num="0" prec="13" plot="2" width="217" stat="0" data="0;0.02;0.03;"/>
+			<col name="vitesse 25gly" type="6" num="0" prec="13" plot="2" width="152" stat="0" data="0;21.3;22;;22;"/>
+			<col name="in v gly" type="6" num="0" prec="13" plot="2" width="100" stat="0" data="0;1.2;0.7;;3;"/>
+		</tab>
+	</window>
+	<window type="3" name="Graphe1" date="2460761.7917852" x="1070" y="13" w="758" h="666" dpi="120">
+		<layout cw="742" ch="600" w="658" h="493" left="5" right="5" top="5" bottom="5" rows="1" cols="1" vSpace="5" hSpace="5" hAlign="0" vAlign="0" align="0" common="0" link="0" scale="0" currentLayer="0" sPrint="0" cmPrint="0" atUnits="1" atdIndex="0" atPolicy="4" alMode="0" luMode="2" lc="#000000" lw="0" ls="0"/>
+		<tab x="5" y="33" w="732" h="562" autoscale="1" maxMajorTicks="50" axesLayout="0" antialias="1" gap="1" refLinesOnTop="0" dataMargins="1">
+			<page x="0.00673854" y="0.055" w="0.986523" h="0.936667"/>
+			<speed on="0" algorithm="0" bins="500" tolerance="0" points="3000"/>
+			<frame bg="#ffffff,0"/>
+			<canvas x="68" y="43" w="658" h="493" fixRatio="0" bg="#ffffff,0"/>
+			<grid xAxis="2" yAxis="0">
+				<majx lc="#a0a0a4" lw="0.5" ls="0"/>
+				<minx lc="#c0c0c0" lw="0.3" ls="1"/>
+				<majy lc="#a0a0a4" lw="0.5" ls="0"/>
+				<miny lc="#c0c0c0" lw="0.3" ls="1"/>
+			</grid>
+			<curve type="2" z="21" table="Table1" x="pos temp 25gly" y="vitesse 25gly" from="0" to="-1" line="1" lc="#000000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="1" size="7" lc="#000000" lw="1" ls="0" brc="#000000"/>
+				<errors type="0" z="25" table="Table1" col="in pos temp gly" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+				<errors type="1" z="26" table="Table1" col="in v gly" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+			</curve>
+			<curve type="2" z="22" table="Table1" x="pos temp eau" y="vitesse eau" from="0" to="-1" line="1" lc="#ff0000" lw="1" ls="0" brc="#000000" brs="0">
+				<symbol style="2" size="7" lc="#ff0000" lw="1" ls="0" brc="#ff0000"/>
+				<errors type="0" z="23" table="Table1" col="in temp eau" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+				<errors type="1" z="24" table="Table1" col="incertitude v eau" from="0" to="-1" line="0" lc="#000000" lw="1" ls="0" brc="#000000" brs="0" cap="8" plus="1" minus="1" symb="1"/>
+			</curve>
+			<axis id="0" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-5" to="30" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="1" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-5" to="30" step="0" maj="8" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?Y)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="2" on="1" type="0" format="0" prec="6" lw="1">
+				<div from="-5" to="20" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<axis id="3" on="0" type="0" format="0" prec="6" lw="1">
+				<div from="-5" to="20" step="0" maj="6" min="4" type="0"/>
+				<ticks maj="1" majl="9" min="1" minl="5"/>
+				<title text="%(?X)" color="#000000" font="Lucida Sans Unicode,10,-1,5,75,0,0,0,0,0" align="5124" on="1" space="2" fmw="46"/>
+				<labels space="4" font="Lucida Sans Unicode,10,-1,5,50,0,0,0,0,0" align="0"/>
+			</axis>
+			<item type="2" name="Légende1" x="-4.65753424657534" y="29.359756097561" r="1.7351598173516" b="25.5894308943089" xAxis="2" yAxis="0" frame="1" lc="#000000" lw="1" ls="0" bg="#ffffff,0" onTop="1" at="0" on="1" auto="1" font="Lucida Sans Unicode,9.6,-1,5,50,0,0,0,0,0" left="10" top="5" symbLineLength="32" symbLineWidth="-1" text="\l(1)%(1)&#10;\l(2)%(2)"/>
+		</tab>
+	</window>
+</qti>
