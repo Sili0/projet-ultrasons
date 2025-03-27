@@ -32,3 +32,4 @@ Each acquisition is named by the experimental parameters used, and contains the 
 Youtube channel with the video used to identify bubble sizes and their time-code in the acquisition:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Chaine-red?logo=youtube&logoColor=white)](https://www.youtube.com/@projet-ultrasons)  
+> **_NOTE:_**  The video playback speed is not constant due to YouTube encoding issue as the original file is in high frame rate (240), so it appears that the ramp speed is not constant. It is of course not the case.
