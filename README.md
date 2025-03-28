@@ -9,6 +9,7 @@ This repository includes:
 - **Compiled versions** of AnimPlot for macOS and Windows  
 - **Folders with .csv raw data files** to be opened with AnimPlot  
 - A **link to the YouTube channel** with the videos of the acquisitions
+- **QtiPlot** processed data included in the report
 
 
 ## AnimPlot
