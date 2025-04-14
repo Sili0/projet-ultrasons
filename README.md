@@ -1,7 +1,7 @@
 # projet-ultrasons
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Sili0)  [![License](https://img.shields.io/badge/License-MIT-green)](https://mit-license.org/) 
 ## Description
-_Repository containing the data and code (**AnimPlot**) regarding the Projet Tuteuré about ultrasound propagation._
+_Repository containing the data and code (**AnimPlot**) regarding the Projet Tutoré about ultrasound propagation._
 
 ## Repository Contents
 This repository includes:  
