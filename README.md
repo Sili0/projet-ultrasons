@@ -13,7 +13,7 @@ This repository includes:
 
 
 ## AnimPlot
-It's an simple python program similar to a video player that let you plot the animated waveform acquired by the **Record** function of [OpenWave-1KB](https://github.com/other-username/https://github.com/OpenWave-GW/OpenWave-1KB). The animated plot acts like a video player, you can pause and go frame per frame. The horizontals and verticals axis are respected, and reproduce the range of data seen on the oscilloscope during the acquisition. You can also navigate through the values with a precise cursor, and providing the velocity of ultrasound inside the liquid used during acquisition, it calculates the spatial position of the cursor. As the acquisition speed is not constant, you can use a current ramp in the second channel of the oscilloscope to let the program recover the real elasped time between frames.
+It's an simple python program similar to a video player that let you plot the animated waveform acquired by the **Record** function of [OpenWave-1KB](https://github.com/OpenWave-GW/OpenWave-1KB). The animated plot acts like a video player, you can pause and go frame per frame. The horizontals and verticals axis are respected, and reproduce the range of data seen on the oscilloscope during the acquisition. You can also navigate through the values with a precise cursor, and providing the velocity of ultrasound inside the liquid used during acquisition, it calculates the spatial position of the cursor. As the acquisition speed is not constant, you can use a current ramp in the second channel of the oscilloscope to let the program recover the real elasped time between frames.
 ### Installation
 You need Python 3 installed, and the dependencies: **MatplotLib**, **Numpy**
 
